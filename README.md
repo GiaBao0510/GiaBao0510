@@ -2,7 +2,6 @@
 - 🌱 I'm currently a student
 - 💞️  I'm looking to collaborate with everyone
 - 📫 Gmail: PGiaBao2002@gmail.com
-- 📫 Zalo: 0839267068
 <!---
 GiaBao0510/GiaBao0510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
