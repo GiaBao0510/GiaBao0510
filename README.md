@@ -7,6 +7,5 @@ GiaBao0510/GiaBao0510 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 - 🔗 These are programming languages. I know:
-<a href="https://www.w3schools.com/java/default.asp"><img href="https://andeh.co.uk/img/skills/java.png"/></a>
-
+[![](https://andeh.co.uk/img/skills/java.png=100)](https://www.w3schools.com/java/default.asp)
 
