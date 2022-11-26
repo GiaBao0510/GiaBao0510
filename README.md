@@ -17,4 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%"/>](https://www.w3schools.com/js/default.asp)
 
+[<img src="https://cuongquach.com/wp-content/uploads/2016/05/bash-logo.png" width="5%"/>](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+
+[<img src="https://w0.peakpx.com/wallpaper/987/583/HD-wallpaper-language-c-chedesign-programming-thumbnail.jpg" width="5%"/>](https://www.codecademy.com/catalog/language/c)
 
