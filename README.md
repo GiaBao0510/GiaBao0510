@@ -7,4 +7,4 @@ GiaBao0510/GiaBao0510 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 - 🔗 These are programming languages. I know:
-[![java](https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png =50x50)](https://www.w3schools.com/java/default.asp)
+[![](https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png | width=100)](https://www.w3schools.com/java/default.asp)
