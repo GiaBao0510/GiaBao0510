@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 [<img src="https://cuongquach.com/wp-content/uploads/2016/05/bash-logo.png" width="5%"/>](https://www.tutorialspoint.com/unix/shell_scripting.htm)
 
-[<img src="https://w0.peakpx.com/wallpaper/987/583/HD-wallpaper-language-c-chedesign-programming-thumbnail.jpg" width="5%" height="3%"/>](https://www.codecademy.com/catalog/language/c)
+[<img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" width="5%" height="3%"/>](https://www.codecademy.com/catalog/language/c)
 
