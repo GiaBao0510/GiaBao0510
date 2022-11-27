@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 [<img src="https://cuongquach.com/wp-content/uploads/2016/05/bash-logo.png" width="5%"/>](https://www.tutorialspoint.com/unix/shell_scripting.htm) &nbsp; [<img src="https://www.simplilearn.com/ice9/course_images/160x160/C-simplilearn.svgz" width="5%" height="3%"/>](https://www.codecademy.com/catalog/language/c)
 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzINGYNDQAK_vE4e7-No1AfwEKehr5y-dfyokA3smE5s7bf_5fkerIkbMj-Y4QuZ6tgg&usqp=CAU" width="5%" height="3%"/>](https://www.w3schools.com/jquery/default.asp) &nbsp; [<img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="5%"/>](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
