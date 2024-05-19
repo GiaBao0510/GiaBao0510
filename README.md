@@ -6,8 +6,7 @@
 GiaBao0510/GiaBao0510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<html>
-<head>
+
 <style>
 .flex-container {
   display: flex;
@@ -24,8 +23,7 @@ You can click the Preview link to take a look at your changes.
   font-size: 30px;
 }
 </style>
-</head>
-<body>
+
 <h1>Flexible Boxes</h1>
 
 <div class="flex-container">
@@ -48,5 +46,3 @@ You can click the Preview link to take a look at your changes.
 <p>A container with "flex-wrap: nowrap;" will never wrap its items.</p>
 <p><strong>Note:</strong> Flexbox is not supported in Internet Explorer 10 or earlier versions.</p>
 
-</body>
-</html>
