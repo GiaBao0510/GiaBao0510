@@ -10,16 +10,16 @@ You can click the Preview link to take a look at your changes.
 - 🔗 I know:
     <!--- Link hinh anh--->
 <!--Java --> 
-[<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;" class="KhungHieuBiet">]
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;" class="KhungHieuBiet">
   <!-- Java -->
-  [<a href="https://www.javatpoint.com/java-tutorial" style="margin-left:100px;">]
-    [<img src="https://andeh.co.uk/img/skills/java.png" width="5%" alt="Java">]
-  [</a>]
+  <a href="https://www.javatpoint.com/java-tutorial" style="padding-left:100px;">
+    <img src="https://andeh.co.uk/img/skills/java.png" width="5%" alt="Java">
+  </a>
 
   <!-- HTML -->
-  [<a href="https://www.w3schools.com/html/">]
-    [<img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" width="5%" alt="HTML">]
-  [</a>]
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" width="5%" alt="HTML">
+  </a>
 
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/default.asp">
