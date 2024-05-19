@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 - 🔗 I know:
     <!--- Link hinh anh--->
 <!--Java --> 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;" class="KhungHieuBiet">
+<div style="display: flex; flex-wrap: wrap; gap: 45px; align-items: center;">
   <!-- Java -->
-  <a href="https://www.javatpoint.com/java-tutorial" style="padding-left:100px;">
+  <a href="https://www.javatpoint.com/java-tutorial">
     <img src="https://andeh.co.uk/img/skills/java.png" width="5%" alt="Java">
   </a>
 
@@ -51,4 +51,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://tailieu.hostingviet.vn/wp-content/uploads/2018/06/svn.png" width="5%" alt="Subversion">
   </a>
 </div>
-
