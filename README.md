@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!--Java --> 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;" class="KhungHieuBiet">
   <!-- Java -->
-  <a href="https://www.javatpoint.com/java-tutorial" style="margin-left:10px;">
+  <a href="https://www.javatpoint.com/java-tutorial" style="margin-left:100px;">
     <img src="https://andeh.co.uk/img/skills/java.png" width="5%" alt="Java">
   </a>
 
