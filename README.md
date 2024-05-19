@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 🔗 I know:
     <!--- Link hinh anh--->
 <!--Java --> 
+[<div style="display:flex">] 
 [<img src="https://andeh.co.uk/img/skills/java.png" width="5%"/>](https://www.javatpoint.com/java-tutorial) &nbsp;  
 
 <!--html-->  
@@ -20,21 +21,8 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://images.squarespace-cdn.com/content/v1/585ae2fd20099ec5194c7fb9/1577281683792-9JTDOYIJ26MMFS1218F1/bash-logo.jpg" width="5%"/>](https://www.tutorialspoint.com/unix/shell_scripting.htm) &nbsp; 
 <!--C--> 
 [<img src="https://www.simplilearn.com/ice9/course_images/160x160/C-simplilearn.svgz" width="5%" height="3%"/>](https://www.codecademy.com/catalog/language/c)  &nbsp;    
- <!--Jquery-->
-<a href="https://www.w3schools.com/jquery/default.asp" style="display: inline-block;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzINGYNDQAK_vE4e7-No1AfwEKehr5y-dfyokA3smE5s7bf_5fkerIkbMj-Y4QuZ6tgg&usqp=CAU" width="5%" height="3%">
-</a>
-&nbsp;
-<!--bootstrap-->
-<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" style="display: inline-block;">
-  <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="5%">
-</a>
-&nbsp;
-<!--sql developer-->
-<a href="https://www.youtube.com/@OracleLearningchannel/playlists" style="display: inline-block;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxtbREjQwCjmV7E-znwa2TBQfgzPLZn6dhGU_ldy67CLBLdkxCoUanp_21nxMVrBwgPE&usqp=CAU" width="5%">
-</a>
- <!--Git-->
+<!--Git-->
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%"/>](https://www.atlassian.com/git/tutorials/setting-up-a-repository) &nbsp;   
 <!--subversion-->
 [<img src="https://tailieu.hostingviet.vn/wp-content/uploads/2018/06/svn.png" width="5%"/>](https://www.tutorialspoint.com/svn/index.htm)   
+[</div>]
