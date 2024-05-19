@@ -1,4 +1,4 @@
-![image](https://github.com/GiaBao0510/GiaBao0510/assets/116412803/2daf57a6-5950-44a1-a40b-9660e393788f)- 👋 Hi, I’m Pham Gia Bao
+- 👋 Hi, I’m Pham Gia Bao
 - 🌱 I'm currently a student
 - 💞️ *I'm looking to collaborate with everyone*
 - 📫 Gmail: PGiaBao2002@gmail.com
@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxv2dePUYmSjf5WxqWALMmEOIuQB7aUu2aw&s" width="5%" alt="Subversion">
   </a>
 
-    <!-- flutter -->
+<!-- flutter -->
   <a href="https://docs.flutter.dev/" style="margin: 0 45px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvD6WeX9nqZhN41XX5vyyNuqqwiQfmp_1wA&s" width="5%" alt="Subversion">
   </a>
