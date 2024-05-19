@@ -8,8 +8,13 @@ You can click the Preview link to take a look at your changes.
 --->
 - 🔗 I know:
     <!--- Link hinh anh--->
+<style>
+    .KhungHieuBiet a{
+        margin-left: 10px;
+    }
+</style>
 <!--Java --> 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;" class="KhungHieuBiet">
   <!-- Java -->
   <a href="https://www.javatpoint.com/java-tutorial">
     <img src="https://andeh.co.uk/img/skills/java.png" width="5%" alt="Java">
