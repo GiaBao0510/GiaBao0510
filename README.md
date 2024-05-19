@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pham Gia Bao
+![image](https://github.com/GiaBao0510/GiaBao0510/assets/116412803/2daf57a6-5950-44a1-a40b-9660e393788f)- 👋 Hi, I’m Pham Gia Bao
 - 🌱 I'm currently a student
 - 💞️ *I'm looking to collaborate with everyone*
 - 📫 Gmail: PGiaBao2002@gmail.com
@@ -9,11 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 - 🔗 I know:
     <!--- Link hinh anh--->
-<!--Java --> 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- Java -->
-  <a href="https://www.javatpoint.com/java-tutorial" style="margin: 0 45px;">
-    <img src="https://andeh.co.uk/img/skills/java.png" width="5%" alt="Java">
+  <!-- nodeJS -->
+  <a href="https://nodejs.org/docs/latest/api/" style="margin: 0 45px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4ujyaPndpNXMuLkeVrh5eTULE9tyoATxKg&s" width="5%" alt="Java">
   </a>
 
   <!-- HTML -->
@@ -31,14 +30,19 @@ You can click the Preview link to take a look at your changes.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%" alt="JavaScript">
   </a>
 
-  <!-- ShellScript -->
-  <a href="https://www.tutorialspoint.com/unix/shell_scripting.htm" style="margin: 0 45px;">
-    <img src="https://images.squarespace-cdn.com/content/v1/585ae2fd20099ec5194c7fb9/1577281683792-9JTDOYIJ26MMFS1218F1/bash-logo.jpg" width="5%" alt="ShellScript">
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/docs/" style="margin: 0 45px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuMRzP2i8h_xIFrtbyJvXy29eTCtyUpwIrzg&s" width="5%" alt="ShellScript">
   </a>
 
-  <!-- C -->
-  <a href="https://www.codecademy.com/catalog/language/c" style="margin: 0 45px;">
-    <img src="https://www.simplilearn.com/ice9/course_images/160x160/C-simplilearn.svgz" width="5%" height="3%" alt="C">
+  <!--Mysql-->
+  <a href="https://dev.mysql.com/doc/" style="margin: 0 45px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D7DAiMoKTVZFpiXAuRLZcFqorRlSu_5ZnQ&s" width="5%" height="3%" alt="C">
+  </a>
+
+  <!-- python -->
+  <a href="https://docs.python.org/3/" style="margin: 0 45px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eF3tWNifPIfYFw4EpvqGJgAcZX1jTXdDog&s" width="5%" height="3%" alt="C">
   </a>
 
   <!-- Git -->
@@ -46,8 +50,13 @@ You can click the Preview link to take a look at your changes.
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" alt="Git">
   </a>
 
-  <!-- Subversion -->
-  <a href="https://www.tutorialspoint.com/svn/index.htm" style="margin: 0 45px;">
-    <img src="https://tailieu.hostingviet.vn/wp-content/uploads/2018/06/svn.png" width="5%" alt="Subversion">
+  <!-- Dart -->
+  <a href="https://dart.dev/guides" style="margin: 0 45px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxv2dePUYmSjf5WxqWALMmEOIuQB7aUu2aw&s" width="5%" alt="Subversion">
+  </a>
+
+    <!-- flutter -->
+  <a href="https://docs.flutter.dev/" style="margin: 0 45px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvD6WeX9nqZhN41XX5vyyNuqqwiQfmp_1wA&s" width="5%" alt="Subversion">
   </a>
 </div>
