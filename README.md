@@ -21,11 +21,19 @@ You can click the Preview link to take a look at your changes.
 <!--C--> 
 [<img src="https://www.simplilearn.com/ice9/course_images/160x160/C-simplilearn.svgz" width="5%" height="3%"/>](https://www.codecademy.com/catalog/language/c)  &nbsp;    
  <!--Jquery-->
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzINGYNDQAK_vE4e7-No1AfwEKehr5y-dfyokA3smE5s7bf_5fkerIkbMj-Y4QuZ6tgg&usqp=CAU" width="5%" height="3%"/>](https://www.w3schools.com/jquery/default.asp) &nbsp; 
- <!--bootstrap-->
-[<img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="5%"/>](https://getbootstrap.com/docs/5.2/getting-started/introduction/) &nbsp; 
- <!--sql developer-->
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxtbREjQwCjmV7E-znwa2TBQfgzPLZn6dhGU_ldy67CLBLdkxCoUanp_21nxMVrBwgPE&usqp=CAU" width="5%"/>](https://www.youtube.com/@OracleLearningchannel/playlists) &nbsp; 
+<a href="https://www.w3schools.com/jquery/default.asp" style="display: inline-block;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzINGYNDQAK_vE4e7-No1AfwEKehr5y-dfyokA3smE5s7bf_5fkerIkbMj-Y4QuZ6tgg&usqp=CAU" width="5%" height="3%">
+</a>
+&nbsp;
+<!--bootstrap-->
+<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" style="display: inline-block;">
+  <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width="5%">
+</a>
+&nbsp;
+<!--sql developer-->
+<a href="https://www.youtube.com/@OracleLearningchannel/playlists" style="display: inline-block;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbxtbREjQwCjmV7E-znwa2TBQfgzPLZn6dhGU_ldy67CLBLdkxCoUanp_21nxMVrBwgPE&usqp=CAU" width="5%">
+</a>
  <!--Git-->
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%"/>](https://www.atlassian.com/git/tutorials/setting-up-a-repository) &nbsp;   
 <!--subversion-->
