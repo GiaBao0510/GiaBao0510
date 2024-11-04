@@ -1,62 +1,73 @@
-- 👋 Hi, I’m Pham Gia Bao
-- 🌱 I'm currently a student
-- 💞️ *I'm looking to collaborate with everyone*
-- 📫 Gmail: pgbaop4@gmail.com
-<!---
-GiaBao0510/GiaBao0510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Xin chào, tôi là Phạm Gia Bảo
 
-- 🔗 I know:
-    <!--- Link hinh anh--->
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- nodeJS -->
-  <a href="https://nodejs.org/docs/latest/api/" style="margin: 0 45px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4ujyaPndpNXMuLkeVrh5eTULE9tyoATxKg&s" width="5%" alt="Java">
+## 🎓 Về tôi
+- 🌱 Hiện tại tôi là sinh viên
+- 💞️ Tôi luôn mong muốn được hợp tác và học hỏi từ mọi người
+- 📫 Liên hệ: pgbaop4@gmail.com
+
+## 🚀 Kỹ năng
+
+### 💻 Backend
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#">
   </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3schools.com/html/" style="margin: 0 45px;">
-    <img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw" width="5%" alt="HTML">
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="ASP.NET Core">
   </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/default.asp" style="margin: 0 45px;">
-    <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" width="5%" alt="CSS">
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://www.w3schools.com/js/default.asp" style="margin: 0 45px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%" alt="JavaScript">
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/docs/" style="margin: 0 45px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuMRzP2i8h_xIFrtbyJvXy29eTCtyUpwIrzg&s" width="5%" alt="ShellScript">
-  </a>
-
-  <!--Mysql-->
-  <a href="https://dev.mysql.com/doc/" style="margin: 0 45px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_D7DAiMoKTVZFpiXAuRLZcFqorRlSu_5ZnQ&s" width="5%" height="3%" alt="C">
-  </a>
-
-  <!-- python -->
-  <a href="https://docs.python.org/3/" style="margin: 0 45px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eF3tWNifPIfYFw4EpvqGJgAcZX1jTXdDog&s" width="5%" height="3%" alt="C">
-  </a>
-
-  <!-- Git -->
-  <a href="https://www.atlassian.com/git/tutorials/setting-up-a-repository" style="margin: 0 45px;">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" alt="Git">
-  </a>
-
-  <!-- Dart -->
-  <a href="https://dart.dev/guides" style="margin: 0 45px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxv2dePUYmSjf5WxqWALMmEOIuQB7aUu2aw&s" width="5%" alt="Subversion">
-  </a>
-
-<!-- flutter -->
-  <a href="https://docs.flutter.dev/" style="margin: 0 45px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvD6WeX9nqZhN41XX5vyyNuqqwiQfmp_1wA&s" width="5%" alt="Subversion">
+  <a href="https://dotnet.microsoft.com/learn" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET">
   </a>
 </div>
+
+### 🌐 Frontend
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://flutter.dev/docs" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter">
+  </a>
+  <a href="https://vuejs.org/v2/guide/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js">
+  </a>
+  <a href="https://dart.dev/guides" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart">
+  </a>
+</div>
+
+### 🗄️ Database
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://docs.mongodb.com/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB">
+  </a>
+  <a href="https://dev.mysql.com/doc/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL">
+  </a>
+  <a href="https://www.json.org/json-en.html" style="margin-right: 10px;">
+    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="40" height="40" alt="JSON">
+  </a>
+</div>
+
+### 🛠️ Ngôn ngữ và công cụ khác
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://nodejs.org/en/docs/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js">
+  </a>
+  <a href="https://devdocs.io/c/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C">
+  </a>
+  <a href="https://docs.python.org/3/" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  </a>
+</div>
+
+---
+
+<p align="center">Cảm ơn bạn đã ghé thăm trang GitHub của tôi! 😊</p>
