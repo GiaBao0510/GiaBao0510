@@ -1,11 +1,11 @@
-# 👋 Xin chào, tôi là Phạm Gia Bảo
+# 👋 Hello, I'm Pham Gia Bao
 
-## 🎓 Về tôi
-- 🌱 Hiện tại tôi là sinh viên
-- 💞️ Tôi luôn mong muốn được hợp tác và học hỏi từ mọi người
-- 📫 Liên hệ: pgbaop4@gmail.com
+## 🎓 About me
+- 🌱 I'm currently a student
+- 💞️ I always want to cooperate and learn from everyone
+- 📫 Contact: pgbaop4@gmail.com
 
-## 🚀 Kỹ năng
+## 🚀 Skill:
 
 ### 💻 Backend
 <div style="display: flex; flex-wrap: wrap;">
@@ -46,7 +46,7 @@
   </a>
 </div>
 
-### 🛠️ Ngôn ngữ và công cụ khác
+### 🛠️ Other languages ​​and tools
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://nodejs.org/en/docs/" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js">
@@ -70,4 +70,4 @@
 
 ---
 
-<p align="center">Cảm ơn bạn đã ghé thăm trang GitHub của tôi! 😊</p>
+<p align="center">Thanks for visiting my GitHub page!😊</p>
