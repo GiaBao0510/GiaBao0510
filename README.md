@@ -70,4 +70,11 @@
 
 ---
 
+## 🧠 LeetCode Daily Practice
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/giabao0510?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
 <p align="center">Thanks for visiting my GitHub page!😊</p>
+
