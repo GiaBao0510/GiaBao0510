@@ -66,6 +66,9 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 
 [![SQL (Basic) - HackerRank](https://img.shields.io/badge/HackerRank-SQL%20(Basic)%20Verified-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/0a5ce984cc47)
 
+[![Foudational C# with Microsoft - freeCodeCamp](https://global.discourse-cdn.com/freecodecamp/original/4X/6/3/6/636da51bd3978723841ef5e377c4407eec169b92.png)](https://www.freecodecamp.org/certification/fcc59bbf46c-2189-489c-8eda-bebd1fb2f9d0/foundational-c-sharp-with-microsoft)
+
+[![ Introduction to SQL - simplilearn](https://certificates.simplicdn.net/share/9638120_9877841_1766675051163.png)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvOTYzODEyMF85ODc3ODQxXzE3NjY2NzUwNTExNjMucG5nIiwidXNlcm5hbWUiOiJQaGFtIEdpYSBCYW8ifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction%2520to%2520SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)
 *(working toward SQL Intermediate/Advanced and REST API certifications next)*
 
 ## 🪙 Badges
