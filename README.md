@@ -68,6 +68,10 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 
 *(working toward SQL Intermediate/Advanced and REST API certifications next)*
 
+## 🪙 Badges
+
+[![ Cybersecurity Fundamentals -  IBM SkillsBuild](https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/fbbf8430-dac3-4960-ad66-556eb7db73f3/public_url)
+
 ---
 
 ## 🧠 LeetCode Daily Practice
