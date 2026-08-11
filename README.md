@@ -96,8 +96,6 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 | ⭐ Stars given (starred repos) | 34 | [View starred repos](https://github.com/GiaBao0510?tab=stars) |
 | 📦 Repositories created | 39 | [View repositories](https://github.com/GiaBao0510?tab=repositories) |
 
-*(Note: the badges above update automatically over time; the table shows a snapshot at the time this README was written.)*
-
 ---
 
 ## 🧠 LeetCode Daily Practice
