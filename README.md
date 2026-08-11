@@ -10,6 +10,12 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 - 🤝 Open to collaborating on backend/Go open-source projects and study groups
 - 📫 Reach me at: **pgbaop4@gmail.com**
 
+### 🔗 Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-GiaBao0510-181717?style=flat&logo=github&logoColor=white)](https://github.com/GiaBao0510)
+[![LeetCode](https://img.shields.io/badge/LeetCode-giabao0510-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/giabao0510)
+[![HackerRank](https://img.shields.io/badge/HackerRank-pgiabao2002-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/pgiabao2002)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -74,6 +80,23 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 ## 🪙 Badges
 
 [![ Cybersecurity Fundamentals -  IBM SkillsBuild](https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/fbbf8430-dac3-4960-ad66-556eb7db73f3/public_url)
+
+---
+
+## 📊 Profile Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/GiaBao0510?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/GiaBao0510&label=Repositories&query=public_repos&style=for-the-badge&color=green" alt="Repositories" />
+</p>
+
+| Metric | Count | Link |
+|---|---|---|
+| 👥 Followers | 34 | [View followers](https://github.com/GiaBao0510?tab=followers) |
+| ⭐ Stars given (starred repos) | 34 | [View starred repos](https://github.com/GiaBao0510?tab=stars) |
+| 📦 Repositories created | 39 | [View repositories](https://github.com/GiaBao0510?tab=repositories) |
+
+*(Note: the badges above update automatically over time; the table shows a snapshot at the time this README was written.)*
 
 ---
 
