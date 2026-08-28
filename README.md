@@ -77,9 +77,12 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 [![ Introduction to SQL - simplilearn](https://certificates.simplicdn.net/share/9638120_9877841_1766675051163.png)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvOTYzODEyMF85ODc3ODQxXzE3NjY2NzUwNTExNjMucG5nIiwidXNlcm5hbWUiOiJQaGFtIEdpYSBCYW8ifQ%3D%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction%2520to%2520SQL%2Fcertificate%2Fdownload-skillup&%24web_only=true)
 *(working toward SQL Intermediate/Advanced and REST API certifications next)*
 
-## 🪙 Badges
-
 [![ Cybersecurity Fundamentals -  IBM SkillsBuild](https://images.credly.com/size/340x340/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/fbbf8430-dac3-4960-ad66-556eb7db73f3/public_url)
+
+[![ Getting Started with Cybersecurity -  IBM SkillsBuild](https://images.credly.com/size/340x340/images/0462da0b-41f3-4542-b312-b2fc69869129/Getting_20Started_20With_20CybersecurityBadge.png)](https://www.credly.com/badges/187aea8a-f8c6-4a8a-a345-5aff6b2ce3f6/public_url)
+
+## 🪙 Badges
+...
 
 ---
 
