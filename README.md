@@ -119,18 +119,12 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 
 <p align="center"><i>Thanks for stopping by — always happy to talk backend, Go, or system design 🙂</i></p>
 
-### 👾 Commit Invaders
-
-![Commit Invaders](https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/commit-invaders.svg)
-
 ### 👻 Pac-Man Contribution Graph
 
-![Pac-Man contribution graph](https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/pacman.svg)
-
-### 🐍 Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/pacman-contribution-graph.svg">
 </picture>
+
+
