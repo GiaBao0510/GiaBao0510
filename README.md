@@ -119,12 +119,8 @@ I'm a backend-focused developer who spends most of my time building with **Go**,
 
 <p align="center"><i>Thanks for stopping by — always happy to talk backend, Go, or system design 🙂</i></p>
 
-### 👻 Pac-Man Contribution Graph
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiaBao0510/GiaBao0510/output/pacman-contribution-graph.svg">
 </picture>
-
-
